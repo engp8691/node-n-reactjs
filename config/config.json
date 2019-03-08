@@ -1,0 +1,13 @@
+{
+	"development": {
+		"PORT": 3000,
+		"MONGODB_URI": "mongodb://yonglin:turqu01se@ds237955.mlab.com:37955/todoapp",
+		"JWT_SECRET": "eyJfaWQiOiI1Yzc0MjkwNjcyN2EzYTdhMWM5ZmFmYTgiLCJhY2Nlc3Mi"
+	},
+	"test": {
+		"PORT": 8000,
+		"MONGODB_URI": "mongodb://yonglin:turqu01se@ds237955.mlab.com:37955/todoapp",
+		"JWT_SECRET": "eyJfac742906727a3a7a1c9fafazYTdhMWM5ZmFmYTgiLCJhY2Nlc3Mi"
+	}
+}
+
