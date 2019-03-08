@@ -75,7 +75,7 @@ button {
 
 button.login {
   padding: 6px 6px;
-  background: #f00;
+  background: #666;
 }
 button.login:hover {
   padding: 6px 6px;
